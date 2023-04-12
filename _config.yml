@@ -39,6 +39,7 @@ baseurl: "/testing-blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
+    - { platform: github,  user_url: "https://github.com/rchatru" }
     github: Rchatru
 
 # Set this to true to get LaTeX math equation support
